@@ -6,7 +6,7 @@ Try it here: https://pavlovia.org/vuandre1/nBackAlpha3
 # Changelog:
 
 - Changed trial routines to duplications
-- An 's' press now start the trial blocks
+- An 's' press now starts the trial blocks
 - Doubled the number of trials in each block
 
 # Todo:
